@@ -3,6 +3,9 @@
 ## Project Overview
 This project is a data analysis of short-term rental markets comparing two major tourist destinations: Chicago and New Orleans[cite: 10]. I built this project to help real estate investors and property managers quickly understand the differences between these two markets. By cleaning raw data and creating an interactive dashboard, I uncovered clear patterns about what types of properties perform best and how hosts should price their rentals[cite: 16, 17]. 
 
+## Project link
+* **Google Colab Notebook:** [Open Data Preprocessing & Analysis Notebook](https://colab.research.google.com/drive/12hpcBdnO7HoZ9bU2eN5d4r1krgAFAlIb?usp=sharing)
+* **Power BI Dashboard (.pbix):** [View / Download Power BI Dashboard](https://drive.google.com/file/d/11mqyPkJLFzu0QMJKtQubJeuCQnAloEMR/view?usp=sharing)
 ## Problem Statement
 When investors want to buy short-term rental properties in a new city, they face a lot of uncertainty. High-level national statistics are not helpful because every city has different tourism seasons, pricing limits, and local rules[cite: 10]. This project solves that problem by providing a direct, data-driven comparison of Chicago and New Orleans, helping investors confidently decide where to spend their money and what type of property to buy.
 
