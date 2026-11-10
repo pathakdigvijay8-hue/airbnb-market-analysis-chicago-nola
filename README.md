@@ -56,7 +56,7 @@ The Power BI dashboard contains four main sections:
 *   **Recommendation 4 (Regulations):** Hosts should consider setting 3-to-5-night minimum stays during busy weekends to stay compliant with local zoning laws.
 
 ## Conclusion
-This project successfully transformed raw, messy data from two different cities into a clean, interactive business intelligence tool[cite: 17]. I learned how to use Python for complex data preparation and feature engineering, and I improved my ability to use Power BI to tell a clear, actionable data story.
+This project successfully transformed raw, messy data from two different cities into a clean, interactive business intelligence tool. I learned how to use Python for complex data preparation and feature engineering, and I improved my ability to use Power BI to tell a clear, actionable data story.
 
 ## How to Run the Project
 1. Clone this repository to your local machine.
